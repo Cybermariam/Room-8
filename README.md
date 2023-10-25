@@ -7,3 +7,5 @@
 4.meta content -It's a meta element that specifies the actual content
 
 5. meta name="author" - define the author / owner of the page
+
+6. meta keyword - helps our page to rank in search engines.
