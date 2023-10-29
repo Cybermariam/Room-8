@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin-left: 150px;
+  width: 550px;
+}
+h1 {
+  margin-bottom: 0;
+  margin-left: 15px;
+}
+small {
+  margin-left: 15px;
+}
+
+.first_sec {
+  margin-left: 15px;
+  padding-top: 10px;
+}
+
+span {
+  color: rgba(124, 114, 114, 0.8);
+}
+video {
+  border-radius: 8px;
+  margin-left: -25px;
+}
+.container {
+  display: flex;
+  margin-left: -50px;
+  margin-top: 30px;
+}
+
+.speaker {
+  margin-left: 20px;
+}
+.speaker p {
+  word-spacing: 4px;
+  line-height: 2;
+}
